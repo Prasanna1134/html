@@ -910,10 +910,6 @@ path: sections/events.include
 </section>
 
 <section>
-<div data-fill-with="property-index"></div>
-</section>
-
-<section>
 <div data-fill-with="idl-index"></div>
 </section>
 
